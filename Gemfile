@@ -72,7 +72,7 @@ gem "resque_mailer", '1.0.1'
 gem "juggernaut"
 
 # Diff 内容并输出 HTML 格式
-gem "htmldiff", :git => "git://github.com/huacnlee/htmldiff.git"
+# gem "htmldiff", :git => "git://github.com/huacnlee/htmldiff.git"
 
 gem "redis-search", "0.6.1"
 
